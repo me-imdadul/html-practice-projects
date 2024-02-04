@@ -10,4 +10,4 @@ This is my first project of HTML series. In this i used HTML, CSS to create a si
 
 Here is the preview of website :
 
-![1706799068648](image/README/1706799068648.png)
+![1706799068648](image/1706799068648.png)
